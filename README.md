@@ -1,4 +1,4 @@
-# Design-Oriented Programming
+# Design-Oriented Programming (DOP)
 
 Design-Oriented Programming (DOP) introduces a new paradigm that prioritizes the design and construction of programs using building blocks called blocks or bricks. In this article, we will delve into the specifics of Design-Oriented Programming and distinguish it from other programming paradigms.
 
@@ -134,6 +134,17 @@ Loop example:
 ```
 
 These examples illustrate how blocks can be employed in DOP to create specialized functionality and construct programs to meet specific requirements.
+
+# Design-Oriented Programming (DOP) VS Object-Oriented Programming (OOP)
+Design-Oriented Programming (DOP) is a programming paradigm that focuses on the design and construction of programs using building blocks called blocks or bricks. These blocks are implemented directly in the source code and can be used to construct classes, functions, or even entire programs. Blocks can also contain other blocks, establishing a hierarchical structure. DOP encourages programmers to think in terms of building blocks and their connections, promoting modularity, reusability, and a clear design hierarchy.
+
+On the other hand, Object-Oriented Programming (OOP) is another widely adopted programming paradigm that revolves around objects encapsulating both data and code. Objects are organized into classes, serving as blueprints for creating object instances. OOP facilitates encapsulation, inheritance, and polymorphism, promoting modular and reusable code.
+
+The main difference between DOP and OOP lies in their approach to programming. DOP prioritizes the design and construction of programs using building blocks, while OOP focuses on objects and their interaction. DOP views a program as a collection of interconnected blocks, creating complex computational structures. In contrast, OOP views a program as a collection of objects, with each object having its own data and behavior.
+
+DOP is not OOP because it does not involve the use of objects and their interaction. Instead, DOP uses blocks as the fundamental units of a program, which can be combined and interconnected to create complex structures. While OOP promotes modularity and reusability through encapsulation and inheritance, DOP achieves these goals through the design and construction of programs using building blocks.
+
+In conclusion, DOP and OOP are two distinct programming paradigms. DOP prioritizes the design and construction of programs using building blocks, while OOP revolves around objects encapsulating both data and code. Understanding the differences between these paradigms is essential for programmers to choose the most appropriate approach for their specific programming requirements.
 
 # Conclusion
 Design-Oriented Programming represents a unique paradigm that emphasizes the design and construction of programs using building blocks. By utilizing blocks as program constructors, DOP promotes modularity, reusability, and clear design hierarchies.
