@@ -26,6 +26,8 @@ The key aspects of Design-Oriented Programming are:
 - Blocks can contain other blocks, establishing a hierarchical structure.
 - Blocks can be components of various structures like methods and loops.
 
+In Design-Oriented Programming (DOP), a block is a building block or brick that serves as a program constructor. Blocks are implemented directly in the program's source code and can be utilized to construct classes, functions, or even entire programs. They can contain other blocks, establishing a hierarchical structure. Blocks can be components of various structures like methods and loops.
+
 The roots of DOP can be traced back to the AsmX programming language. Let's explore an AsmX example to grasp the working of DOP:
 ```
 @using method setType;
@@ -145,6 +147,11 @@ The main difference between DOP and OOP lies in their approach to programming. D
 DOP is not OOP because it does not involve the use of objects and their interaction. Instead, DOP uses blocks as the fundamental units of a program, which can be combined and interconnected to create complex structures. While OOP promotes modularity and reusability through encapsulation and inheritance, DOP achieves these goals through the design and construction of programs using building blocks.
 
 In conclusion, DOP and OOP are two distinct programming paradigms. DOP prioritizes the design and construction of programs using building blocks, while OOP revolves around objects encapsulating both data and code. Understanding the differences between these paradigms is essential for programmers to choose the most appropriate approach for their specific programming requirements.
+
+# The difference between DOP and OOP
+Unlike traditional class-based object-oriented programming, blocks in DOP do not encapsulate both data and code like objects do. Instead, blocks focus on the construction of programs and their design. They serve as fundamental units of the program and can be combined and interconnected to create complex computational structures. Blocks in DOP promote modularity, reusability, and a clear design hierarchy.
+
+In summary, blocks in DOP are program constructors that can be implemented directly in the program's source code. They serve as fundamental units and can be combined and interconnected to create complex structures. Unlike objects in object-oriented programming, blocks in DOP do not encapsulate both data and code. Instead, they focus on the design and construction of programs.
 
 # Conclusion
 Design-Oriented Programming represents a unique paradigm that emphasizes the design and construction of programs using building blocks. By utilizing blocks as program constructors, DOP promotes modularity, reusability, and clear design hierarchies.
