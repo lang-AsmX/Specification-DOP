@@ -153,6 +153,57 @@ Unlike traditional class-based object-oriented programming, blocks in DOP do not
 
 In summary, blocks in DOP are program constructors that can be implemented directly in the program's source code. They serve as fundamental units and can be combined and interconnected to create complex structures. Unlike objects in object-oriented programming, blocks in DOP do not encapsulate both data and code. Instead, they focus on the design and construction of programs.
 
+# Questions & Answers
+1. What is the purpose of Design-Oriented Programming (DOP)?
+- The purpose of DOP is to prioritize the design and construction of programs using building blocks or bricks.
+
+2. What are the key aspects of Design-Oriented Programming?
+- Blocks are implemented in the program's source code.
+- Blocks can be utilized to construct classes, functions, or entire programs.
+- Blocks can contain other blocks, establishing a hierarchical structure.
+- Blocks can be components of various structures like methods and loops.
+
+3. How does Design-Oriented Programming differ from Imperative programming?
+- Imperative programming involves writing instructions (commands) directly into a program's source code, while DOP focuses on constructing programs using building blocks.
+
+4. What is the fundamental principle of Design-Oriented Programming?
+- The fundamental principle of DOP is the construction of programs using building blocks, which serve as the fundamental units of the program and can be combined and interconnected to create complex computational structures.
+
+5. How does Design-Oriented Programming enable specialization?
+- DOP enables specialization by allowing programmers to tailor the construction of programs to specific requirements and constraints through the use and organization of different blocks.
+
+6. What is the difference between Design-Oriented Programming (DOP) and Object-Oriented Programming (OOP)?
+- DOP prioritizes the design and construction of programs using building blocks, while OOP revolves around objects encapsulating both data and code.
+- Blocks in DOP do not encapsulate both data and code like objects in OOP.
+- DOP views a program as a collection of interconnected blocks, while OOP views a program as a collection of objects.
+
+7. How do blocks in Design-Oriented Programming promote modularity and reusability?
+- Blocks in DOP promote modularity and reusability by serving as program constructors that can be combined and interconnected to create complex structures.
+
+8. What is the significance of blocks in Design-Oriented Programming?
+- Blocks in DOP serve as the fundamental units of the program and can be implemented directly in the program's source code, allowing for the construction and design of programs.
+
+9. What programming language is associated with the roots of Design-Oriented Programming?
+- The roots of DOP can be traced back to the AsmX programming language.
+
+10. How are constructors, destructors, blocks, and classes utilized in Design-Oriented Programming?
+- Constructors, destructors, blocks, and classes are all employed in DOP as building blocks or bricks that can be bound within a class.
+
+11. What are blocks in design-oriented programming?
+- Blocks in design-oriented programming are building blocks or building blocks that serve as program constructors. They are implemented directly in the source code of the program and can be used to create classes, functions, or entire programs. They can contain other blocks, creating a hierarchical structure. They are components of various structures such as methods and loops.
+
+12. How are blocks implemented in design-oriented programming?
+- Blocks are implemented directly in the source code of the program.
+
+13. What can be used to build blocks in design-oriented programming?
+- Blocks can be used to build classes, functions, or even entire programs.
+
+14. How can blocks be organized in design-oriented programming?
+- Blocks can be organized hierarchically, containing other blocks, creating a hierarchical structure.
+
+15. Where can blocks be used as components in design-oriented programming?
+- Blocks can be used as components of various structures such as methods and loops and other structures.
+
 # Conclusion
 Design-Oriented Programming represents a unique paradigm that emphasizes the design and construction of programs using building blocks. By utilizing blocks as program constructors, DOP promotes modularity, reusability, and clear design hierarchies.
 
